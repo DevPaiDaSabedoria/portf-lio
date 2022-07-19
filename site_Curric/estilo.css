@@ -8,10 +8,14 @@ body {
 
 .footer {
     background-color: rgb(236, 236, 236);
+    text-align: center;
+    padding-bottom: 50px;
 }
 
 .gifTop {
-    
+    margin: 0px auto 2% auto;
+    width: 75%;
+    display: block;
 }
 
 .title {
